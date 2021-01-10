@@ -1,1 +1,1 @@
-It's a base project for using tests on .NET Core.
+It's a base project to simulate tests on .NET Core.
